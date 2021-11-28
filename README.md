@@ -55,7 +55,7 @@
 
 </details>
 
-[![Spotify](https://https://novatorem-cryotechnic.vercel.app/api/spotify)](https://open.spotify.com/user/mrgamingt00lman)
+[![Spotify](https://novatorem-cryotechnic.vercel.app/api/spotify)](https://open.spotify.com/user/mrgamingt00lman)
 
 
 
