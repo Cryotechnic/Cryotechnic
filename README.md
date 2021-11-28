@@ -44,6 +44,10 @@
   <img align="left" alt="CryoTechnic's GitHub Stats" src="https://github-readme-stats-cryotechnic.vercel.app/api?username=CryoTechnic&theme=tokyonight&show_icons=true&hide_border=true" />
 
 </details>
+<details>
+  <summary>:zap: Recent Activity<//summary>
+  <!--START_SECTION:activity-->
+</details>
 
 [website]: https://portfolio-web-rho.vercel.app/
 [twitter]: https://twitter.com/CryoTechnical
