@@ -6,7 +6,7 @@
 ## I just like making cool things for people, welcome to my page!
 
 - 🌱 I’m currently learning C++😁
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games 🎮
 
 ### Connect with me:
