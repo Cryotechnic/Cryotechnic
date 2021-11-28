@@ -37,6 +37,13 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: Recent Activity<//summary>
+  
+  <!--START_SECTION:activity-->
+  
+</details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -44,18 +51,8 @@
   <img align="left" alt="CryoTechnic's GitHub Stats" src="https://github-readme-stats-cryotechnic.vercel.app/api?username=CryoTechnic&theme=tokyonight&show_icons=true&hide_border=true" />
 
 </details>
-<details>
-  <summary>:zap: Recent Activity<//summary>
-  
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Cryotechnic/sysdev-project/pull/2) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
-2. 💪 Opened PR [#2](https://github.com/Cryotechnic/sysdev-project/pull/2) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
-3. 🎉 Merged PR [#1](https://github.com/Cryotechnic/sysdev-project/pull/1) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
-4. 💪 Opened PR [#1](https://github.com/Cryotechnic/sysdev-project/pull/1) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
-5. 🎉 Merged PR [#6](https://github.com/Cryotechnic/portfolio-web/pull/6) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-<!--END_SECTION:activity-->
-  
-</details>
+
+
 
 [website]: https://portfolio-web-rho.vercel.app/
 [twitter]: https://twitter.com/CryoTechnical
