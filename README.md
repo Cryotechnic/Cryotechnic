@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio@Vercel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
+[<img align="left" alt="Portfolio@Vercel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="CryoTechnical | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ron Friedman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ron_Friedman123 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
