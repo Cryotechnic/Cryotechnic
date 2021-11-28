@@ -55,6 +55,8 @@
 
 </details>
 
+[![Spotify](https://https://novatorem-cryotechnic.vercel.app/api/spotify)](https://open.spotify.com/user/MrGamingT00lMan)
+
 
 
 [website]: https://portfolio-web-rho.vercel.app/
