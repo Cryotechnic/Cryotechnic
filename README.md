@@ -40,10 +40,10 @@
 ### :zap: Recent Activity
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3969](https://github.com/quisquous/cactbot/issues/3969) in [quisquous/cactbot](https://github.com/quisquous/cactbot)
-2. 🎉 Merged PR [#3](https://github.com/Cryotechnic/sysdev-project/pull/3) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
-3. 🎉 Merged PR [#2](https://github.com/Cryotechnic/sysdev-project/pull/2) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
-4. 🎉 Merged PR [#1](https://github.com/Cryotechnic/sysdev-project/pull/1) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
+1. 🎉 Merged PR [#7](https://github.com/Cryotechnic/portfolio-web/pull/7) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+2. 🗣 Commented on [#3969](https://github.com/quisquous/cactbot/issues/3969) in [quisquous/cactbot](https://github.com/quisquous/cactbot)
+3. 🎉 Merged PR [#3](https://github.com/Cryotechnic/sysdev-project/pull/3) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
+4. 🎉 Merged PR [#2](https://github.com/Cryotechnic/sysdev-project/pull/2) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
 5. 💪 Opened PR [#1](https://github.com/Cryotechnic/sysdev-project/pull/1) in [Cryotechnic/sysdev-project](https://github.com/Cryotechnic/sysdev-project)
 <!--END_SECTION:activity-->
 
