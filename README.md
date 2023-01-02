@@ -54,7 +54,8 @@
   <img align="left" alt="CryoTechnic's GitHub Stats" src="https://github-readme-stats-cryotechnic.vercel.app/api?username=CryoTechnic&theme=tokyonight&show_icons=true&hide_border=true" />
 
 </details>
-<br>
+
+
 ### 🎶 What I'm currently listening to 
 [![Spotify](https://novatorem-cryotechnic.vercel.app/api/spotify)](https://open.spotify.com/user/mrgamingt00lman)
 
