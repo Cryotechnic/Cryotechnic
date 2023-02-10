@@ -41,10 +41,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-2. 🗣 Commented on [#78](https://github.com/neon-nyan/Collapse/issues/78) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-3. ❗️ Opened issue [#78](https://github.com/neon-nyan/Collapse/issues/78) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-4. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-5. 🎉 Merged PR [#2](https://github.com/Cryotechnic/Collapse/pull/2) in [Cryotechnic/Collapse](https://github.com/Cryotechnic/Collapse)
+2. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+3. 🗣 Commented on [#78](https://github.com/neon-nyan/Collapse/issues/78) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+4. ❗️ Opened issue [#78](https://github.com/neon-nyan/Collapse/issues/78) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+5. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
 <!--END_SECTION:activity-->
 
 
