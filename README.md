@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+1. 🗣 Commented on [#64](https://github.com/neon-nyan/Collapse/issues/64) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
 2. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
 3. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-4. 🗣 Commented on [#78](https://github.com/neon-nyan/Collapse/issues/78) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-5. ❗️ Opened issue [#78](https://github.com/neon-nyan/Collapse/issues/78) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+4. 🗣 Commented on [#71](https://github.com/neon-nyan/Collapse/issues/71) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+5. 🗣 Commented on [#78](https://github.com/neon-nyan/Collapse/issues/78) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
 <!--END_SECTION:activity-->
 
 
