@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Cryotechnic/portfolio-web/pull/33) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-2. 🎉 Merged PR [#34](https://github.com/Cryotechnic/portfolio-web/pull/34) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-3. 🗣 Commented on [#132](https://github.com/neon-nyan/Collapse/issues/132) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-4. 🗣 Commented on [#132](https://github.com/neon-nyan/Collapse/issues/132) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-5. ❗️ Closed issue [#146](https://github.com/neon-nyan/Collapse/issues/146) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+1. 🗣 Commented on [#139](https://github.com/neon-nyan/Collapse/issues/139) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+2. 🗣 Commented on [#4](https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo/issues/4) in [neon-nyan/CollapseLauncher-ReleaseRepo](https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo)
+3. 💪 Opened PR [#4](https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo/pull/4) in [neon-nyan/CollapseLauncher-ReleaseRepo](https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo)
+4. 🎉 Merged PR [#33](https://github.com/Cryotechnic/portfolio-web/pull/33) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+5. 🎉 Merged PR [#34](https://github.com/Cryotechnic/portfolio-web/pull/34) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
 <!--END_SECTION:activity-->
 
 
