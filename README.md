@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/neon-nyan/Collapse/issues/220) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-2. 🎉 Merged PR [#221](https://github.com/neon-nyan/Collapse/pull/221) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-3. ❗️ Closed issue [#219](https://github.com/neon-nyan/Collapse/issues/219) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-4. 💪 Opened PR [#221](https://github.com/neon-nyan/Collapse/pull/221) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-5. 💪 Opened PR [#220](https://github.com/neon-nyan/Collapse/pull/220) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+1. 🗣 Commented on [#44](https://github.com/neon-nyan/Collapse/issues/44) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+2. ❗️ Closed issue [#206](https://github.com/neon-nyan/Collapse/issues/206) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+3. 🗣 Commented on [#206](https://github.com/neon-nyan/Collapse/issues/206) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+4. 🗣 Commented on [#131](https://github.com/neon-nyan/Collapse/issues/131) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+5. 🗣 Commented on [#220](https://github.com/neon-nyan/Collapse/issues/220) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
 <!--END_SECTION:activity-->
 
 
