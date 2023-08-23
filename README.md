@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com/neon-nyan/Collapse/pull/231) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-2. 🎉 Merged PR [#232](https://github.com/neon-nyan/Collapse/pull/232) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-3. 🗣 Commented on [#232](https://github.com/neon-nyan/Collapse/issues/232) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-4. 🎉 Merged PR [#36](https://github.com/Cryotechnic/portfolio-web/pull/36) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-5. 🎉 Merged PR [#37](https://github.com/Cryotechnic/portfolio-web/pull/37) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+1. 🎉 Merged PR [#241](https://github.com/neon-nyan/Collapse/pull/241) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+2. 🗣 Commented on [#241](https://github.com/neon-nyan/Collapse/issues/241) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+3. 🎉 Merged PR [#242](https://github.com/neon-nyan/Collapse/pull/242) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+4. 💪 Opened PR [#242](https://github.com/neon-nyan/Collapse/pull/242) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+5. 🎉 Merged PR [#231](https://github.com/neon-nyan/Collapse/pull/231) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
 <!--END_SECTION:activity-->
 
 
