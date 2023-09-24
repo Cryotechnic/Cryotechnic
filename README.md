@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/neon-nyan/Collapse/issues/266) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-2. 🎉 Merged PR [#2](https://github.com/lanets/err-storage-sql/pull/2) in [lanets/err-storage-sql](https://github.com/lanets/err-storage-sql)
-3. 🎉 Merged PR [#1](https://github.com/lanets/err-storage-sql/pull/1) in [lanets/err-storage-sql](https://github.com/lanets/err-storage-sql)
-4. 🎉 Merged PR [#261](https://github.com/neon-nyan/Collapse/pull/261) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
-5. 🗣 Commented on [#238](https://github.com/neon-nyan/Collapse/issues/238) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+1. ❗️ Closed issue [#271](https://github.com/neon-nyan/Collapse/issues/271) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+2. 🗣 Commented on [#271](https://github.com/neon-nyan/Collapse/issues/271) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+3. 🗣 Commented on [#270](https://github.com/neon-nyan/Collapse/issues/270) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+4. 🗣 Commented on [#266](https://github.com/neon-nyan/Collapse/issues/266) in [neon-nyan/Collapse](https://github.com/neon-nyan/Collapse)
+5. 🎉 Merged PR [#2](https://github.com/lanets/err-storage-sql/pull/2) in [lanets/err-storage-sql](https://github.com/lanets/err-storage-sql)
 <!--END_SECTION:activity-->
 
 
