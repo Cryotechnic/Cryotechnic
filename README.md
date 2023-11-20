@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Cryotechnic/portfolio-web/pull/38) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-2. 🎉 Merged PR [#39](https://github.com/Cryotechnic/portfolio-web/pull/39) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-3. 🎉 Merged PR [#40](https://github.com/Cryotechnic/portfolio-web/pull/40) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-4. ❗️ Closed issue [#299](https://github.com/CollapseLauncher/Collapse/issues/299) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. ❗️ Closed issue [#299](https://github.com/CollapseLauncher/Collapse/issues/299) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 🗣 Commented on [#303](https://github.com/CollapseLauncher/Collapse/issues/303) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. ❌ Closed PR [#303](https://github.com/CollapseLauncher/Collapse/pull/303) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🎉 Merged PR [#38](https://github.com/Cryotechnic/portfolio-web/pull/38) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+4. 🎉 Merged PR [#39](https://github.com/Cryotechnic/portfolio-web/pull/39) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+5. 🎉 Merged PR [#40](https://github.com/Cryotechnic/portfolio-web/pull/40) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
 <!--END_SECTION:activity-->
 
 
