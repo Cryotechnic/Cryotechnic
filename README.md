@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#335](https://github.com/CollapseLauncher/Collapse/pull/335) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 🗣 Commented on [#303](https://github.com/CollapseLauncher/Collapse/issues/303) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. ❌ Closed PR [#303](https://github.com/CollapseLauncher/Collapse/pull/303) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 🎉 Merged PR [#38](https://github.com/Cryotechnic/portfolio-web/pull/38) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-5. 🎉 Merged PR [#39](https://github.com/Cryotechnic/portfolio-web/pull/39) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+1. 🗣 Commented on [#275](https://github.com/CollapseLauncher/Collapse/issues/275) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. 🗣 Commented on [#275](https://github.com/CollapseLauncher/Collapse/issues/275) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🗣 Commented on [#279](https://github.com/CollapseLauncher/Collapse/issues/279) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. 🎉 Merged PR [#336](https://github.com/CollapseLauncher/Collapse/pull/336) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🎉 Merged PR [#335](https://github.com/CollapseLauncher/Collapse/pull/335) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 
