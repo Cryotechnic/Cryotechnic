@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com/CollapseLauncher/Collapse/issues/352) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 🗣 Commented on [#353](https://github.com/CollapseLauncher/Collapse/issues/353) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. 🗣 Commented on [#341](https://github.com/CollapseLauncher/Collapse/issues/341) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 🗣 Commented on [#142](https://github.com/CollapseLauncher/Collapse/issues/142) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 🗣 Commented on [#228](https://github.com/CollapseLauncher/Collapse/issues/228) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 🎉 Merged PR [#323](https://github.com/CollapseLauncher/Collapse/pull/323) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. 💪 Opened PR [#11](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/11) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+3. 🗣 Commented on [#352](https://github.com/CollapseLauncher/Collapse/issues/352) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. 🗣 Commented on [#353](https://github.com/CollapseLauncher/Collapse/issues/353) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🗣 Commented on [#341](https://github.com/CollapseLauncher/Collapse/issues/341) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 
