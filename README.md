@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#380](https://github.com/CollapseLauncher/Collapse/pull/380) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 🗣 Commented on [#380](https://github.com/CollapseLauncher/Collapse/issues/380) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. 💪 Opened PR [#380](https://github.com/CollapseLauncher/Collapse/pull/380) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 🗣 Commented on [#365](https://github.com/CollapseLauncher/Collapse/issues/365) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 🗣 Commented on [#357](https://github.com/CollapseLauncher/Collapse/issues/357) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 🎉 Merged PR [#384](https://github.com/CollapseLauncher/Collapse/pull/384) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. 🎉 Merged PR [#385](https://github.com/CollapseLauncher/Collapse/pull/385) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🎉 Merged PR [#380](https://github.com/CollapseLauncher/Collapse/pull/380) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. 🗣 Commented on [#380](https://github.com/CollapseLauncher/Collapse/issues/380) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 💪 Opened PR [#380](https://github.com/CollapseLauncher/Collapse/pull/380) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 
