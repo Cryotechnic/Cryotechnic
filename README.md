@@ -5,8 +5,8 @@
 
 ## I just like making cool things for people, welcome to my page!
 
-- 🌱 I’m currently learning C++😁
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning C# 😁
+- 🥅 2024 Goals: Enhance my skills in C# and continue developing projects related to the language
 - ⚡ Fun fact: I love to draw and play video games 🎮
 
 ### Connect with me:
