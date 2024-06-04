@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#445](https://github.com/CollapseLauncher/Collapse/issues/445) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. ❗️ Closed issue [#469](https://github.com/CollapseLauncher/Collapse/issues/469) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. ❗️ Opened issue [#469](https://github.com/CollapseLauncher/Collapse/issues/469) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 🗣 Commented on [#468](https://github.com/CollapseLauncher/Collapse/issues/468) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 🎉 Merged PR [#46](https://github.com/Cryotechnic/portfolio-web/pull/46) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+1. 🎉 Merged PR [#473](https://github.com/CollapseLauncher/Collapse/pull/473) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. 🗣 Commented on [#473](https://github.com/CollapseLauncher/Collapse/issues/473) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🗣 Commented on [#445](https://github.com/CollapseLauncher/Collapse/issues/445) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. ❗️ Closed issue [#469](https://github.com/CollapseLauncher/Collapse/issues/469) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. ❗️ Opened issue [#469](https://github.com/CollapseLauncher/Collapse/issues/469) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 
