@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/27) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
-2. 🎉 Merged PR [#473](https://github.com/CollapseLauncher/Collapse/pull/473) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. 🗣 Commented on [#473](https://github.com/CollapseLauncher/Collapse/issues/473) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 🗣 Commented on [#445](https://github.com/CollapseLauncher/Collapse/issues/445) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. ❗️ Closed issue [#469](https://github.com/CollapseLauncher/Collapse/issues/469) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ❗️ Opened issue [#28](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/28) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
+2. 🗣 Commented on [#27](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/27) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
+3. ❗️ Opened issue [#27](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/27) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
+4. 🎉 Merged PR [#473](https://github.com/CollapseLauncher/Collapse/pull/473) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🗣 Commented on [#473](https://github.com/CollapseLauncher/Collapse/issues/473) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 
