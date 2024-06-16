@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/28) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
-2. ❗️ Closed issue [#28](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/28) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
-3. ❗️ Opened issue [#28](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/28) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
-4. 🗣 Commented on [#27](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/27) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
-5. ❗️ Opened issue [#27](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/27) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
+1. 🗣 Commented on [#480](https://github.com/CollapseLauncher/Collapse/issues/480) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. ❗️ Closed issue [#480](https://github.com/CollapseLauncher/Collapse/issues/480) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🗣 Commented on [#28](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/28) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
+4. ❗️ Closed issue [#28](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/28) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
+5. ❗️ Opened issue [#28](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts/issues/28) in [profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts](https://github.com/profcfuhrmanets/log210-systeme-gestion-bordereau-node-express-ts)
 <!--END_SECTION:activity-->
 
 
