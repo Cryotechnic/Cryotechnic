@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#570](https://github.com/CollapseLauncher/Collapse/pull/570) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. ❗️ Closed issue [#566](https://github.com/CollapseLauncher/Collapse/issues/566) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. 🗣 Commented on [#566](https://github.com/CollapseLauncher/Collapse/issues/566) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 💪 Opened PR [#359](https://github.com/ffxivcode/AutoDuty/pull/359) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🎉 Merged PR [#570](https://github.com/CollapseLauncher/Collapse/pull/570) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. ❗️ Closed issue [#566](https://github.com/CollapseLauncher/Collapse/issues/566) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 4. 🗣 Commented on [#566](https://github.com/CollapseLauncher/Collapse/issues/566) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 🗣 Commented on [#555](https://github.com/CollapseLauncher/Collapse/issues/555) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🗣 Commented on [#566](https://github.com/CollapseLauncher/Collapse/issues/566) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 
