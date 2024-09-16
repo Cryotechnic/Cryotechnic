@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#406](https://github.com/ffxivcode/AutoDuty/issues/406) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 💪 Opened PR [#359](https://github.com/ffxivcode/AutoDuty/pull/359) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🎉 Merged PR [#570](https://github.com/CollapseLauncher/Collapse/pull/570) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. ❗️ Closed issue [#566](https://github.com/CollapseLauncher/Collapse/issues/566) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 🗣 Commented on [#566](https://github.com/CollapseLauncher/Collapse/issues/566) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 🗣 Commented on [#50](https://github.com/Cryotechnic/portfolio-web/issues/50) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+2. 🎉 Merged PR [#51](https://github.com/Cryotechnic/portfolio-web/pull/51) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+3. 💪 Opened PR [#51](https://github.com/Cryotechnic/portfolio-web/pull/51) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+4. ❗️ Opened issue [#406](https://github.com/ffxivcode/AutoDuty/issues/406) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 💪 Opened PR [#359](https://github.com/ffxivcode/AutoDuty/pull/359) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 
