@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/Cryotechnic/portfolio-web/issues/50) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-2. 🎉 Merged PR [#51](https://github.com/Cryotechnic/portfolio-web/pull/51) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-3. 💪 Opened PR [#51](https://github.com/Cryotechnic/portfolio-web/pull/51) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-4. ❗️ Opened issue [#406](https://github.com/ffxivcode/AutoDuty/issues/406) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 💪 Opened PR [#359](https://github.com/ffxivcode/AutoDuty/pull/359) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🎉 Merged PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
+2. 💪 Opened PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
+3. 🗣 Commented on [#50](https://github.com/Cryotechnic/portfolio-web/issues/50) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+4. 🎉 Merged PR [#51](https://github.com/Cryotechnic/portfolio-web/pull/51) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+5. 💪 Opened PR [#51](https://github.com/Cryotechnic/portfolio-web/pull/51) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
 <!--END_SECTION:activity-->
 
 
