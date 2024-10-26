@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#596](https://github.com/CollapseLauncher/Collapse/pull/596) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 🎉 Merged PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
-3. 💪 Opened PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
-4. 🗣 Commented on [#50](https://github.com/Cryotechnic/portfolio-web/issues/50) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-5. 🎉 Merged PR [#51](https://github.com/Cryotechnic/portfolio-web/pull/51) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+1. 💪 Opened PR [#19](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/19) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+2. 💪 Opened PR [#596](https://github.com/CollapseLauncher/Collapse/pull/596) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🎉 Merged PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
+4. 💪 Opened PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
+5. 🗣 Commented on [#50](https://github.com/Cryotechnic/portfolio-web/issues/50) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
 <!--END_SECTION:activity-->
 
 
