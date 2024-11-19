@@ -40,11 +40,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#603](https://github.com/CollapseLauncher/Collapse/issues/603) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 💪 Opened PR [#19](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/19) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-3. 💪 Opened PR [#596](https://github.com/CollapseLauncher/Collapse/pull/596) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 🎉 Merged PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
-5. 💪 Opened PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
+1. 🗣 Commented on [#607](https://github.com/CollapseLauncher/Collapse/issues/607) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. 🗣 Commented on [#603](https://github.com/CollapseLauncher/Collapse/issues/603) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 💪 Opened PR [#19](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/19) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+4. 💪 Opened PR [#596](https://github.com/CollapseLauncher/Collapse/pull/596) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🎉 Merged PR [#1](https://github.com/Cryotechnic/Automaton/pull/1) in [Cryotechnic/Automaton](https://github.com/Cryotechnic/Automaton)
 <!--END_SECTION:activity-->
 
 
