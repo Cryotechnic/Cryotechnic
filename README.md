@@ -41,9 +41,6 @@
   <img width="16" />
 </div>
 
-<br />
-<br />
-
 ### Frameworks I daily-drive
 
 <div align="left">
