@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio@Vercel" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />][website]
-[<img align="left" alt="Ron Friedman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Portfolio@Vercel" width="22px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />][website]
+[<img align="left" alt="Ron Friedman | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
@@ -100,8 +100,6 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="30" alt="netlify logo" />
 </div>
-<br />
-<br />
 
 ---
 ### :zap: Recent Activity
