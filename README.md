@@ -105,9 +105,9 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#676](https://github.com/CollapseLauncher/Collapse/issues/676) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 🎉 Merged PR [#640](https://github.com/CollapseLauncher/Collapse/pull/640) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. 🎉 Merged PR [#641](https://github.com/CollapseLauncher/Collapse/pull/641) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 🎉 Merged PR [#1](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit/pull/1) in [Xermax3/SegmentationFaults-HackathonStarterKit](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit)
+2. 💪 Opened PR [#1](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit/pull/1) in [Xermax3/SegmentationFaults-HackathonStarterKit](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit)
+3. 🗣 Commented on [#676](https://github.com/CollapseLauncher/Collapse/issues/676) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 4. 💪 Opened PR [#641](https://github.com/CollapseLauncher/Collapse/pull/641) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 5. ❗️ Closed issue [#637](https://github.com/CollapseLauncher/Collapse/issues/637) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
