@@ -105,7 +105,7 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#684](https://github.com/CollapseLauncher/Collapse/pull/684) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 💪 Opened PR [#703](https://github.com/CollapseLauncher/Collapse/pull/703) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 2. 🎉 Merged PR [#1](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit/pull/1) in [Xermax3/SegmentationFaults-HackathonStarterKit](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit)
 3. 💪 Opened PR [#1](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit/pull/1) in [Xermax3/SegmentationFaults-HackathonStarterKit](https://github.com/Xermax3/SegmentationFaults-HackathonStarterKit)
 4. 🗣 Commented on [#676](https://github.com/CollapseLauncher/Collapse/issues/676) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
