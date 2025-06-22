@@ -6,7 +6,7 @@
 
 - 🎓 Studying IT Engineering at École de Technologie Supérieure
 - 🌱 I’m currently learning C# 😁
-- 🥅 2024 Goals: Enhance my skills in C# and continue developing projects related to the language
+- 🥅 2025 Goals: Enhance my skills in C# and continue developing projects related to the language
 - ⚡ Fun fact: I love to draw and play video games 🎮
 
 ### Connect with me:
