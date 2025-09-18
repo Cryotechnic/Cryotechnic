@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/PunishXIV/Questionable/issues/11) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+1. 🎉 Merged PR [#18](https://github.com/CollapseLauncher/documentation/pull/18) in [CollapseLauncher/documentation](https://github.com/CollapseLauncher/documentation)
 2. 💪 Opened PR [#2](https://github.com/WigglyMuffin/Questionable/pull/2) in [WigglyMuffin/Questionable](https://github.com/WigglyMuffin/Questionable)
 3. 💪 Opened PR [#3](https://github.com/PunishXIV/Questionable/pull/3) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
 4. 💪 Opened PR [#2](https://github.com/PunishXIV/Questionable/pull/2) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
-5. ❗️ Assigned issue [#770](https://github.com/CollapseLauncher/Collapse/issues/770) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🗣 Commented on [#782](https://github.com/CollapseLauncher/Collapse/issues/782) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
