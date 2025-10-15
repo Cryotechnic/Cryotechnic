@@ -105,9 +105,9 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#811](https://github.com/CollapseLauncher/Collapse/issues/811) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 🗣 Commented on [#808](https://github.com/CollapseLauncher/Collapse/issues/808) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. 💪 Opened PR [#3](https://github.com/PunishXIV/Questionable/pull/3) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+1. 🗣 Commented on [#237](https://github.com/CollapseLauncher/Collapse/issues/237) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. 🗣 Commented on [#811](https://github.com/CollapseLauncher/Collapse/issues/811) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🗣 Commented on [#808](https://github.com/CollapseLauncher/Collapse/issues/808) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 4. 💪 Opened PR [#2](https://github.com/PunishXIV/Questionable/pull/2) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
 5. 🗣 Commented on [#782](https://github.com/CollapseLauncher/Collapse/issues/782) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
