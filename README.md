@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#307768](https://github.com/microsoft/winget-pkgs/issues/307768) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 💪 Opened PR [#307768](https://github.com/microsoft/winget-pkgs/pull/307768) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 💪 Opened PR [#814](https://github.com/CollapseLauncher/Collapse/pull/814) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 💪 Opened PR [#813](https://github.com/CollapseLauncher/Collapse/pull/813) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. ❗️ Assigned issue [#811](https://github.com/CollapseLauncher/Collapse/issues/811) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 💪 Opened PR [#307772](https://github.com/microsoft/winget-pkgs/pull/307772) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🗣 Commented on [#307768](https://github.com/microsoft/winget-pkgs/issues/307768) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 💪 Opened PR [#307768](https://github.com/microsoft/winget-pkgs/pull/307768) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 💪 Opened PR [#814](https://github.com/CollapseLauncher/Collapse/pull/814) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 💪 Opened PR [#813](https://github.com/CollapseLauncher/Collapse/pull/813) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
