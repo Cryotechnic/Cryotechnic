@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#307772](https://github.com/microsoft/winget-pkgs/pull/307772) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🗣 Commented on [#307768](https://github.com/microsoft/winget-pkgs/issues/307768) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 💪 Opened PR [#307768](https://github.com/microsoft/winget-pkgs/pull/307768) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. 💪 Opened PR [#814](https://github.com/CollapseLauncher/Collapse/pull/814) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 💪 Opened PR [#813](https://github.com/CollapseLauncher/Collapse/pull/813) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ❌ Closed PR [#52](https://github.com/Cryotechnic/portfolio-web/pull/52) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+2. ❌ Closed PR [#50](https://github.com/Cryotechnic/portfolio-web/pull/50) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+3. ❌ Closed PR [#49](https://github.com/Cryotechnic/portfolio-web/pull/49) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+4. ❌ Closed PR [#48](https://github.com/Cryotechnic/portfolio-web/pull/48) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+5. 💪 Opened PR [#307772](https://github.com/microsoft/winget-pkgs/pull/307772) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
