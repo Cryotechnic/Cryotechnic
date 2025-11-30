@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core/pull/2) in [CollapseLauncher/Hi3Helper.Plugin.Core](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core)
-2. 💪 Opened PR [#1](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core/pull/1) in [CollapseLauncher/Hi3Helper.Plugin.Core](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core)
-3. 💪 Opened PR [#309790](https://github.com/microsoft/winget-pkgs/pull/309790) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. ❌ Closed PR [#52](https://github.com/Cryotechnic/portfolio-web/pull/52) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
-5. ❌ Closed PR [#50](https://github.com/Cryotechnic/portfolio-web/pull/50) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
+1. 🗣 Commented on [#2](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core/issues/2) in [CollapseLauncher/Hi3Helper.Plugin.Core](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core)
+2. 💪 Opened PR [#2](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core/pull/2) in [CollapseLauncher/Hi3Helper.Plugin.Core](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core)
+3. 💪 Opened PR [#1](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core/pull/1) in [CollapseLauncher/Hi3Helper.Plugin.Core](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core)
+4. 💪 Opened PR [#309790](https://github.com/microsoft/winget-pkgs/pull/309790) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. ❌ Closed PR [#52](https://github.com/Cryotechnic/portfolio-web/pull/52) in [Cryotechnic/portfolio-web](https://github.com/Cryotechnic/portfolio-web)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
