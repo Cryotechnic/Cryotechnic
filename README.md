@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core/pull/2) in [CollapseLauncher/Hi3Helper.Plugin.Core](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core)
-2. 💪 Opened PR [#826](https://github.com/CollapseLauncher/Collapse/pull/826) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. 💪 Opened PR [#825](https://github.com/CollapseLauncher/Collapse/pull/825) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. ❌ Merged PR [#823](https://github.com/CollapseLauncher/Collapse/pull/823) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 🗣 Commented on [#823](https://github.com/CollapseLauncher/Collapse/issues/823) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ❌ Closed PR [#26](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/26) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+2. 💪 Opened PR [#26](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/26) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+3. ❌ Closed PR [#25](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/25) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+4. 💪 Opened PR [#25](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/25) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+5. ❌ Closed PR [#24](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/24) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
