@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/32) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-2. ❌ Closed PR [#31](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/31) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-3. 💪 Opened PR [#31](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/31) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-4. ❌ Closed PR [#30](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/30) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-5. 💪 Opened PR [#30](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/30) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+1. 💪 Opened PR [#33](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/33) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+2. ❌ Closed PR [#32](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/32) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+3. 💪 Opened PR [#32](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/32) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+4. ❌ Closed PR [#31](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/31) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+5. 💪 Opened PR [#31](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/31) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
