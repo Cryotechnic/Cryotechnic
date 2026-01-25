@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4](https://github.com/iyers16/conuhacksx/pull/4) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-2. 💪 Opened PR [#4](https://github.com/iyers16/conuhacksx/pull/4) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-3. 💪 Opened PR [#3](https://github.com/iyers16/conuhacksx/pull/3) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-4. ❌ Merged PR [#2](https://github.com/iyers16/conuhacksx/pull/2) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-5. 💪 Opened PR [#2](https://github.com/iyers16/conuhacksx/pull/2) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+1. ❌ Merged PR [#7](https://github.com/iyers16/conuhacksx/pull/7) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+2. 💪 Opened PR [#7](https://github.com/iyers16/conuhacksx/pull/7) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+3. ❌ Merged PR [#4](https://github.com/iyers16/conuhacksx/pull/4) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+4. 💪 Opened PR [#4](https://github.com/iyers16/conuhacksx/pull/4) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+5. 💪 Opened PR [#3](https://github.com/iyers16/conuhacksx/pull/3) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
