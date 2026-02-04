@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7](https://github.com/iyers16/conuhacksx/pull/7) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-2. 💪 Opened PR [#7](https://github.com/iyers16/conuhacksx/pull/7) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-3. ❌ Merged PR [#4](https://github.com/iyers16/conuhacksx/pull/4) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-4. 💪 Opened PR [#4](https://github.com/iyers16/conuhacksx/pull/4) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
-5. 💪 Opened PR [#3](https://github.com/iyers16/conuhacksx/pull/3) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+1. ❌ Merged PR [#42](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/42) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+2. 💪 Opened PR [#42](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/42) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+3. ❌ Merged PR [#7](https://github.com/iyers16/conuhacksx/pull/7) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+4. 💪 Opened PR [#7](https://github.com/iyers16/conuhacksx/pull/7) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
+5. ❌ Merged PR [#4](https://github.com/iyers16/conuhacksx/pull/4) in [iyers16/conuhacksx](https://github.com/iyers16/conuhacksx)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
