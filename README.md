@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-2. 🗣 Commented on [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-3. ❌ Merged PR [#43](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/43) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-4. 💪 Opened PR [#43](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/43) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-5. ❗️ Labeled issue [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+1. ❌ Merged PR [#44](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/44) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+2. 💪 Opened PR [#44](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/44) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+3. ❗️ Closed issue [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+4. ❗️ Labeled issue [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+5. 🗣 Commented on [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
