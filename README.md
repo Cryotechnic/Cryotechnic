@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-2. 🗣 Commented on [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+1. ❌ Merged PR [#45](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/45) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+2. 💪 Opened PR [#45](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/45) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
 3. ❗️ Labeled issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-4. ❗️ Assigned issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-5. ❌ Merged PR [#44](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/44) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+4. 🗣 Commented on [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+5. ❗️ Labeled issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
