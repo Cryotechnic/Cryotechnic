@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#44](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/44) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-2. 💪 Opened PR [#44](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/44) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-3. ❗️ Closed issue [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-4. ❗️ Labeled issue [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-5. 🗣 Commented on [#3](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/3) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+1. ❗️ Labeled issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+2. 🗣 Commented on [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+3. ❗️ Labeled issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+4. ❗️ Assigned issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+5. ❌ Merged PR [#44](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/44) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
