@@ -105,10 +105,10 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#865](https://github.com/CollapseLauncher/Collapse/pull/865) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. 💪 Opened PR [#865](https://github.com/CollapseLauncher/Collapse/pull/865) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. ❌ Merged PR [#46](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/46) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-4. 💪 Opened PR [#46](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/46) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+1. 💪 Opened PR [#57](https://github.com/Ricimon/FFXIV-RaidsRewritten/pull/57) in [Ricimon/FFXIV-RaidsRewritten](https://github.com/Ricimon/FFXIV-RaidsRewritten)
+2. ❌ Closed PR [#56](https://github.com/Ricimon/FFXIV-RaidsRewritten/pull/56) in [Ricimon/FFXIV-RaidsRewritten](https://github.com/Ricimon/FFXIV-RaidsRewritten)
+3. 💪 Opened PR [#56](https://github.com/Ricimon/FFXIV-RaidsRewritten/pull/56) in [Ricimon/FFXIV-RaidsRewritten](https://github.com/Ricimon/FFXIV-RaidsRewritten)
+4. ❌ Merged PR [#865](https://github.com/CollapseLauncher/Collapse/pull/865) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 5. ❗️ Closed issue [#4](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/4) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
 <!--END_SECTION:activity-->
 
