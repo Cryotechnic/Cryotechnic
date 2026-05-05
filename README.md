@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com/CollapseLauncher/Collapse/issues/841) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. ❗️ Labeled issue [#841](https://github.com/CollapseLauncher/Collapse/issues/841) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. ❗️ Labeled issue [#841](https://github.com/CollapseLauncher/Collapse/issues/841) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. ❗️ Labeled issue [#841](https://github.com/CollapseLauncher/Collapse/issues/841) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. ❗️ Labeled issue [#841](https://github.com/CollapseLauncher/Collapse/issues/841) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ❗️ Labeled issue [#822](https://github.com/CollapseLauncher/Collapse/issues/822) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. ❗️ Labeled issue [#822](https://github.com/CollapseLauncher/Collapse/issues/822) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. 🗣 Commented on [#822](https://github.com/CollapseLauncher/Collapse/issues/822) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. ❗️ Labeled issue [#863](https://github.com/CollapseLauncher/Collapse/issues/863) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🗣 Commented on [#863](https://github.com/CollapseLauncher/Collapse/issues/863) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
