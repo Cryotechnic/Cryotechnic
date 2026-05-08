@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/ApplETS/planifETS-frontend/pull/86) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-2. 💪 Opened PR [#91](https://github.com/ApplETS/planifETS-backend/pull/91) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-3. ❗️ Labeled issue [#822](https://github.com/CollapseLauncher/Collapse/issues/822) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. ❗️ Labeled issue [#822](https://github.com/CollapseLauncher/Collapse/issues/822) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 🗣 Commented on [#822](https://github.com/CollapseLauncher/Collapse/issues/822) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ❗️ Labeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. ❗️ Labeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. ❗️ Unlabeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. ❗️ Labeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 🗣 Commented on [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
