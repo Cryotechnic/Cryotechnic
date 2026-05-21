@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#86](https://github.com/ApplETS/planifETS-frontend/pull/86) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-2. ❌ Merged PR [#91](https://github.com/ApplETS/planifETS-backend/pull/91) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-3. ❗️ Labeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ❗️ Labeled issue [#98](https://github.com/ApplETS/planifETS-backend/issues/98) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+2. ❌ Merged PR [#86](https://github.com/ApplETS/planifETS-frontend/pull/86) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+3. ❌ Merged PR [#91](https://github.com/ApplETS/planifETS-backend/pull/91) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
 4. ❗️ Labeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. ❗️ Unlabeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. ❗️ Labeled issue [#876](https://github.com/CollapseLauncher/Collapse/issues/876) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
