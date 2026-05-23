@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/6) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-2. 🗣 Commented on [#6](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/6) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-3. ❗️ Labeled issue [#98](https://github.com/ApplETS/planifETS-backend/issues/98) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-4. ❌ Merged PR [#86](https://github.com/ApplETS/planifETS-frontend/pull/86) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-5. ❌ Merged PR [#91](https://github.com/ApplETS/planifETS-backend/pull/91) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. 💪 Opened PR [#94](https://github.com/ApplETS/planifETS-frontend/pull/94) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+2. 💪 Opened PR [#106](https://github.com/ApplETS/planifETS-backend/pull/106) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+3. 🗣 Commented on [#6](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/6) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+4. 🗣 Commented on [#6](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/6) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+5. ❗️ Labeled issue [#98](https://github.com/ApplETS/planifETS-backend/issues/98) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
