@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/ApplETS/planifETS-frontend/pull/94) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-2. 💪 Opened PR [#106](https://github.com/ApplETS/planifETS-backend/pull/106) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-3. 🗣 Commented on [#6](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/6) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-4. 🗣 Commented on [#6](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/6) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
-5. ❗️ Labeled issue [#98](https://github.com/ApplETS/planifETS-backend/issues/98) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. ❌ Merged PR [#639](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/639) in [FFXIV-CombatReborn/GatherBuddyReborn](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn)
+2. 💪 Opened PR [#639](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/639) in [FFXIV-CombatReborn/GatherBuddyReborn](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn)
+3. 💪 Opened PR [#94](https://github.com/ApplETS/planifETS-frontend/pull/94) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+4. 💪 Opened PR [#106](https://github.com/ApplETS/planifETS-backend/pull/106) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+5. 🗣 Commented on [#6](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/6) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
