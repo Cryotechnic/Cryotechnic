@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/109) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-2. ❌ Merged PR [#639](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/639) in [FFXIV-CombatReborn/GatherBuddyReborn](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn)
-3. 💪 Opened PR [#639](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/639) in [FFXIV-CombatReborn/GatherBuddyReborn](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn)
-4. 💪 Opened PR [#94](https://github.com/ApplETS/planifETS-frontend/pull/94) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-5. 💪 Opened PR [#106](https://github.com/ApplETS/planifETS-backend/pull/106) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. 🗣 Commented on [#109](https://github.com/ClubCedille/k8s-cedille-production-v2/issues/109) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+2. ❌ Closed PR [#109](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/109) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+3. 💪 Opened PR [#123](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/123) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+4. 💪 Opened PR [#122](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/122) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+5. 💪 Opened PR [#109](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/109) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
