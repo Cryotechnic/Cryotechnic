@@ -105,8 +105,8 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Unlabeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. ❗️ Labeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. 💪 Opened PR [#132](https://github.com/ApplETS/planifETS-backend/pull/132) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+2. ❗️ Unlabeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 3. ❗️ Labeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 4. ❗️ Labeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 5. ❗️ Labeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
