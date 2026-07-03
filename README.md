@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/ApplETS/planifETS-backend/pull/132) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-2. ❗️ Unlabeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. ❗️ Labeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. ❗️ Labeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. ❗️ Labeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ❌ Merged PR [#141](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/141) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+2. ❌ Merged PR [#106](https://github.com/ApplETS/planifETS-backend/pull/106) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+3. 💪 Opened PR [#141](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/141) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+4. 💪 Opened PR [#132](https://github.com/ApplETS/planifETS-backend/pull/132) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+5. ❗️ Unlabeled issue [#882](https://github.com/CollapseLauncher/Collapse/issues/882) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
