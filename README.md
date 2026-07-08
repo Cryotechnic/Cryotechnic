@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#94](https://github.com/ApplETS/planifETS-frontend/pull/94) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-2. ❌ Merged PR [#141](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/141) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-3. ❌ Merged PR [#106](https://github.com/ApplETS/planifETS-backend/pull/106) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-4. 💪 Opened PR [#141](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/141) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-5. 💪 Opened PR [#132](https://github.com/ApplETS/planifETS-backend/pull/132) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. ❌ Merged PR [#47](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/47) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+2. 💪 Opened PR [#47](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/47) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
+3. 🗣 Commented on [#7](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/7) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+4. ❗️ Closed issue [#7](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/7) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
+5. ❗️ Labeled issue [#7](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa/issues/7) in [CollapseLauncher/Hi3Helper.Plugin.Wuwa](https://github.com/CollapseLauncher/Hi3Helper.Plugin.Wuwa)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
