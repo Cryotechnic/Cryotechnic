@@ -105,9 +105,9 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-2. 💪 Opened PR [#165](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/165) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-3. ❗️ Labeled issue [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. ❌ Merged PR [#165](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/165) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+2. 🗣 Commented on [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+3. 💪 Opened PR [#165](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/165) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
 4. ❗️ Labeled issue [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
 5. ❗️ Labeled issue [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
 <!--END_SECTION:activity-->
