@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#892](https://github.com/CollapseLauncher/Collapse/pull/892) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. ❌ Merged PR [#169](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/169) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-3. 💪 Opened PR [#892](https://github.com/CollapseLauncher/Collapse/pull/892) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. 💪 Opened PR [#169](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/169) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-5. ❌ Merged PR [#165](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/165) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+1. 💪 Opened PR [#894](https://github.com/CollapseLauncher/Collapse/pull/894) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. ❌ Merged PR [#892](https://github.com/CollapseLauncher/Collapse/pull/892) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. ❌ Merged PR [#169](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/169) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+4. 💪 Opened PR [#892](https://github.com/CollapseLauncher/Collapse/pull/892) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. 💪 Opened PR [#169](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/169) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
