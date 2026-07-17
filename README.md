@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#894](https://github.com/CollapseLauncher/Collapse/pull/894) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. ❌ Merged PR [#892](https://github.com/CollapseLauncher/Collapse/pull/892) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-3. ❌ Merged PR [#169](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/169) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-4. 💪 Opened PR [#892](https://github.com/CollapseLauncher/Collapse/pull/892) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-5. 💪 Opened PR [#169](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/169) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+1. 🗣 Commented on [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+2. ❗️ Closed issue [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+3. 💪 Opened PR [#894](https://github.com/CollapseLauncher/Collapse/pull/894) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. ❌ Merged PR [#892](https://github.com/CollapseLauncher/Collapse/pull/892) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. ❌ Merged PR [#169](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/169) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
