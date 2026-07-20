@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#187](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/187) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-2. 💪 Opened PR [#187](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/187) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-3. 💪 Opened PR [#122](https://github.com/ApplETS/planifETS-frontend/pull/122) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-4. 💪 Opened PR [#149](https://github.com/ApplETS/planifETS-backend/pull/149) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-5. 🗣 Commented on [#139](https://github.com/ApplETS/planifETS-backend/issues/139) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. ❌ Closed PR [#28](https://github.com/Cryotechnic/MALSync/pull/28) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
+2. ❌ Closed PR [#27](https://github.com/Cryotechnic/MALSync/pull/27) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
+3. ❌ Closed PR [#24](https://github.com/Cryotechnic/MALSync/pull/24) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
+4. ❌ Closed PR [#25](https://github.com/Cryotechnic/MALSync/pull/25) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
+5. ❌ Closed PR [#26](https://github.com/Cryotechnic/MALSync/pull/26) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
