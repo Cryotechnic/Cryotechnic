@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/Cryotechnic/MALSync/pull/28) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
-2. ❌ Closed PR [#27](https://github.com/Cryotechnic/MALSync/pull/27) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
-3. ❌ Closed PR [#24](https://github.com/Cryotechnic/MALSync/pull/24) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
-4. ❌ Closed PR [#25](https://github.com/Cryotechnic/MALSync/pull/25) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
-5. ❌ Closed PR [#26](https://github.com/Cryotechnic/MALSync/pull/26) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
+1. ❌ Merged PR [#122](https://github.com/ApplETS/planifETS-frontend/pull/122) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+2. ❌ Merged PR [#149](https://github.com/ApplETS/planifETS-backend/pull/149) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+3. 🗣 Commented on [#149](https://github.com/ApplETS/planifETS-backend/issues/149) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+4. ❌ Closed PR [#28](https://github.com/Cryotechnic/MALSync/pull/28) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
+5. ❌ Closed PR [#27](https://github.com/Cryotechnic/MALSync/pull/27) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
