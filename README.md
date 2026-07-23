@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#122](https://github.com/ApplETS/planifETS-frontend/pull/122) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-2. ❌ Merged PR [#149](https://github.com/ApplETS/planifETS-backend/pull/149) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-3. 🗣 Commented on [#149](https://github.com/ApplETS/planifETS-backend/issues/149) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-4. ❌ Closed PR [#28](https://github.com/Cryotechnic/MALSync/pull/28) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
-5. ❌ Closed PR [#27](https://github.com/Cryotechnic/MALSync/pull/27) in [Cryotechnic/MALSync](https://github.com/Cryotechnic/MALSync)
+1. 🗣 Commented on [#98](https://github.com/ApplETS/planifETS-backend/issues/98) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+2. 💪 Opened PR [#123](https://github.com/ApplETS/planifETS-frontend/pull/123) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+3. ❌ Merged PR [#122](https://github.com/ApplETS/planifETS-frontend/pull/122) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+4. ❌ Merged PR [#149](https://github.com/ApplETS/planifETS-backend/pull/149) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+5. 🗣 Commented on [#149](https://github.com/ApplETS/planifETS-backend/issues/149) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
