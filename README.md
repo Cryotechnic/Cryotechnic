@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#190](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/190) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-2. 💪 Opened PR [#125](https://github.com/ApplETS/planifETS-frontend/pull/125) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-3. ❌ Merged PR [#123](https://github.com/ApplETS/planifETS-frontend/pull/123) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-4. 🗣 Commented on [#98](https://github.com/ApplETS/planifETS-backend/issues/98) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-5. 💪 Opened PR [#123](https://github.com/ApplETS/planifETS-frontend/pull/123) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+1. ❗️ Closed issue [#142](https://github.com/ApplETS/planifETS-backend/issues/142) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+2. ❌ Merged PR [#150](https://github.com/ApplETS/planifETS-backend/pull/150) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+3. 💪 Opened PR [#150](https://github.com/ApplETS/planifETS-backend/pull/150) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+4. ❌ Merged PR [#190](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/190) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+5. ❌ Merged PR [#125](https://github.com/ApplETS/planifETS-frontend/pull/125) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
