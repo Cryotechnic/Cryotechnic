@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#195](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/195) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-2. 💪 Opened PR [#195](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/195) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-3. ❌ Merged PR [#194](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/194) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-4. 💪 Opened PR [#194](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/194) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
-5. ❗️ Closed issue [#142](https://github.com/ApplETS/planifETS-backend/issues/142) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. ❌ Merged PR [#196](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/196) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+2. 💪 Opened PR [#196](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/196) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+3. ❌ Merged PR [#195](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/195) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+4. 💪 Opened PR [#195](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/195) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
+5. ❌ Merged PR [#194](https://github.com/ClubCedille/k8s-cedille-production-v2/pull/194) in [ClubCedille/k8s-cedille-production-v2](https://github.com/ClubCedille/k8s-cedille-production-v2)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
