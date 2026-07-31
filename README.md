@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/ApplETS/planifETS-frontend/pull/129) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-2. ❌ Merged PR [#128](https://github.com/ApplETS/planifETS-frontend/pull/128) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-3. ❌ Merged PR [#153](https://github.com/ApplETS/planifETS-backend/pull/153) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
-4. 💪 Opened PR [#128](https://github.com/ApplETS/planifETS-frontend/pull/128) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-5. 💪 Opened PR [#153](https://github.com/ApplETS/planifETS-backend/pull/153) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+1. ❌ Merged PR [#130](https://github.com/ApplETS/planifETS-frontend/pull/130) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+2. 🗣 Commented on [#130](https://github.com/ApplETS/planifETS-frontend/issues/130) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+3. 💪 Opened PR [#130](https://github.com/ApplETS/planifETS-frontend/pull/130) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+4. ❌ Merged PR [#129](https://github.com/ApplETS/planifETS-frontend/pull/129) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+5. 💪 Opened PR [#129](https://github.com/ApplETS/planifETS-frontend/pull/129) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
