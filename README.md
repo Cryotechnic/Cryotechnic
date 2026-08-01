@@ -1,4 +1,4 @@
-### Hi there, I'm Ron - aka [CryoTechnic][website] 👋 
+### Hi there, I'm Cry0 - aka [CryoTechnic][website] 👋 
 
 [![Website](https://img.shields.io/website?label=Portfolio@Vercel&style=for-the-badge&url=https%3A%2F%2Fportfolio-web-rho.vercel.app)](https://portfolio-web-rho.vercel.app/)
 
