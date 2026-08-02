@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#894](https://github.com/CollapseLauncher/Collapse/pull/894) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-2. ❌ Merged PR [#132](https://github.com/ApplETS/planifETS-frontend/pull/132) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-3. 💪 Opened PR [#132](https://github.com/ApplETS/planifETS-frontend/pull/132) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-4. ❌ Merged PR [#131](https://github.com/ApplETS/planifETS-frontend/pull/131) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
-5. 💪 Opened PR [#131](https://github.com/ApplETS/planifETS-frontend/pull/131) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+1. 💪 Opened PR [#154](https://github.com/ApplETS/planifETS-backend/pull/154) in [ApplETS/planifETS-backend](https://github.com/ApplETS/planifETS-backend)
+2. ❌ Merged PR [#894](https://github.com/CollapseLauncher/Collapse/pull/894) in [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+3. ❌ Merged PR [#132](https://github.com/ApplETS/planifETS-frontend/pull/132) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+4. 💪 Opened PR [#132](https://github.com/ApplETS/planifETS-frontend/pull/132) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
+5. ❌ Merged PR [#131](https://github.com/ApplETS/planifETS-frontend/pull/131) in [ApplETS/planifETS-frontend](https://github.com/ApplETS/planifETS-frontend)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
